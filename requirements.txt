@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+sort
+numpy
+torch
+filterpy

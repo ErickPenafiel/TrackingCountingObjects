@@ -8,7 +8,7 @@ import torch
 from utils import *
 
 if __name__ == '__main__':
-    cap = cv2.VideoCapture("test3.mp4")
+    cap = cv2.VideoCapture("/videos/test3.mp4")
     print(torch.cuda.is_available())
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     print(f'Using device: {device}')
