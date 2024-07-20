@@ -1,5 +1,9 @@
 # Detección y Conteo de Objetos con YOLOv8 y DeepSORT
 
+![TrackingCounting01](https://i.ibb.co/rf3Q1zQ/Tracking-Counting01.png)
+
+![TrackingCounting02](https://i.ibb.co/d67spp4/Tracking-Counting02.png)
+
 Este proyecto implementa un sistema de detección y conteo de objetos que cruzan ciertos límites utilizando el modelo de segmentación YOLOv8-m y el modelo de trackeo DeepSORT. La visualización se realiza mediante la biblioteca OpenCV (cv2).
 
 ## Descripción
